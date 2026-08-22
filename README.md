@@ -23,6 +23,8 @@ You can also [score an existing brief](https://briefcheck.youworkagent.online/?s
 
 Once the brief is complete, use the [freelance quote review checklist](https://github.com/AdiiPrabhu/freelance-quote-review-checklist) to check deliverable boundaries, client dependencies, revisions, acceptance, payment terms, and change control before sending a fixed price.
 
+Then compare the offer with a [worked Indian freelance proposal sample](https://scopewise.youworkagent.online/freelance-proposal-sample-india?source=github-brief-templates), or run the terms through the [private proposal checker](https://scopewise.youworkagent.online/freelance-proposal-checker?source=github-brief-templates). Neither checker uploads the text you paste.
+
 ## License
 
 MIT. These templates provide general project-scoping information and are not legal advice.
