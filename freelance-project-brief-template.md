@@ -37,4 +37,4 @@
 - Final file handoff:
 - Post-launch support:
 
-Check the completed brief: https://briefcheck.traderadi.site/
+Check the completed brief: https://briefcheck.youworkagent.online/

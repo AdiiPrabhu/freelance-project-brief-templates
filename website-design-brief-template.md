@@ -40,4 +40,4 @@
 - Change-request process:
 - Payment milestones:
 
-Check the completed brief: https://briefcheck.traderadi.site/
+Check the completed brief: https://briefcheck.youworkagent.online/

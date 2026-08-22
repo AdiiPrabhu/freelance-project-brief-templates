@@ -39,4 +39,4 @@
 - Budget range:
 - Acceptance criteria:
 
-Check the completed brief: https://briefcheck.traderadi.site/
+Check the completed brief: https://briefcheck.youworkagent.online/
