@@ -19,6 +19,10 @@ Use [BriefCheck](https://briefcheck.youworkagent.online/client-brief-request?sou
 
 You can also [score an existing brief](https://briefcheck.youworkagent.online/?source=github-templates) for common scope gaps directly in the browser. The text stays on the device.
 
+## Before sending the quote
+
+Once the brief is complete, use the [freelance quote review checklist](https://github.com/AdiiPrabhu/freelance-quote-review-checklist) to check deliverable boundaries, client dependencies, revisions, acceptance, payment terms, and change control before sending a fixed price.
+
 ## License
 
 MIT. These templates provide general project-scoping information and are not legal advice.
